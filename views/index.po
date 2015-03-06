@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Language-Team: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-03-06 01:07+0000\n"
+
+#: /Users/jleppert/devel/rosetajs/views/example.dust:1
+#: /Users/jleppert/devel/rosetajs/views/index.dust:7
+msgid "Hello, {first_name}, you have one message."
+msgid_plural "Hello, {first_name}, you have {message_count} messages!"
+msgstr[0] ""
+msgstr[1] ""

@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>i18n Helper Example: Server Side</title>
+	</head>
+	<body>
+		<h3>Server Side Rendered</h3>
+		{@i18n singular="Hello, {first_name}, you have one message." plural="Hello, {first_name}, you have {message_count} messages!" value="{message_count}"/}
+
+		<h3>Client Side Rendered</h3>
+		<span id="client"></span>
+		<script src="/js/app.js"></script>
+	</body>
+</html>

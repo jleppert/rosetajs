@@ -1,0 +1,1 @@
+{@i18n singular="Hello, {first_name}, you have one message." plural="Hello, {first_name}, you have {message_count} messages!" value="{message_count}"/}
